@@ -1,2 +1,2 @@
 let companyName = 'Scuber';
-const companyName = 'specialCompany';
+let companyName = 'specialCompany';
